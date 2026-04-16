@@ -26,7 +26,7 @@ I am a 2nd-year **Computer Science & Engineering** student who loves turning log
 | **Languages** | `C` `C++` `Python (In Progress)` |
 | **Frontend** | `HTML5` `CSS3` (Built Responsive Projects) |
 | **Tools** | `Git` `GitHub` `VS Code` `Linux` |
-| **Core CS** | `Digital Electronics` `DSA` `Computer Architecture` |
+| **Core CS** | `Digital Electronics` `DSA` `Computer Architecture`'Operating System' |
 
 ---
 
@@ -45,7 +45,7 @@ I am a 2nd-year **Computer Science & Engineering** student who loves turning log
 
 <br/>
 
-<p align="center">
+<p align="center">`
   <img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,git,github,vscode,linux" />
 </p>
 
