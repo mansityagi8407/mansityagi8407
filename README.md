@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansityagi8407&theme=dark)](https://git.io/streak-stats)
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> I'm Mansi Tyagi 👩‍💻
 
 <p align="center">
@@ -72,3 +70,4 @@ I am a 2nd-year **Computer Science & Engineering** student who loves turning log
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=00D1FF&height=30&section=footer" width="100%"/>
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansityagi8407&theme=dark)](https://git.io/streak-stats)
