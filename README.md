@@ -47,7 +47,7 @@ I am a 2nd-year **Computer Science & Engineering** student who loves turning log
 <p align="center">`
   <img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,git,github,vscode,linux" />
 </p>
-
+ 
 ---
 
 ### 🐍 The Coding Snake
