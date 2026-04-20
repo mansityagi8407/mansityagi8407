@@ -13,7 +13,7 @@ I am a 2nd-year **Computer Science & Engineering** student who loves turning log
 
 - 🎓 **Education:** Pursuing B.Tech in CSE (2nd Year)
 - 📚 **Current Focus:** Intensive preparation for **GATE 2027**
-- 🛡️ **Interests:** Software Engineering & Cybersecurity
+- 🛡️ **Interests:** Software Engineering & Cybersecurity 
 - 💻 **Active Learning:** Mastering Python & Advanced DSA
 
 ---
