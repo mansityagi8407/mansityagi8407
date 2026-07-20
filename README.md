@@ -11,7 +11,7 @@
 ---
 
 ### 🌟 About Me
-I am a 2nd-year **Computer Science & Engineering** student who loves turning logic into code. I have a strong foundation in low-level languages and I'm currently expanding my horizon into high-level scripting and security.
+I am a 3rd-year **Computer Science & Engineering** student who loves turning logic into code. I have a strong foundation in low-level languages and I'm currently expanding my horizon into high-level scripting and security.
 
 - 🎓 **Education:** Pursuing B.Tech in CSE (2nd Year)
 - 📚 **Current Focus:** Intensive preparation for **GATE 2027**
